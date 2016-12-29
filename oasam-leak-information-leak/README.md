@@ -4,7 +4,7 @@
 In the authentication section, the information leaks on media will be checked. Sensitive information could be related with the user or the telephone itself.
 The following controls are applied in this section:
 
-**OASAM-LEAK-001: Improper Error Handling.** Application’s information leak through uncontrolled errors.
+**OASAM-LEAK-001: Improper Error Handling.** Application’s information leak through uncontrolled errors. **PENDING**
 
 **OASAM-LEAK-002:Information Leak to log files.** Information Leak to log files.
 
