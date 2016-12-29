@@ -11,10 +11,17 @@ The OASAM Project purpose is to elaborate a complete and consistent taxonomy of 
 
 Security controls are structured in the following sections:
 1. **OASAM-INFO**:  Information Gathering:  Information gathering and attack surface definition.2. OASAM-CONF: Configuration and Deploy Management: Configuration and deploy assessment.
+
 3. **OASAM-AUTH**: Authentication: Authentication assessment.
+
 4. **OASAM-CRYPT**:  Cryptography: Cryptography use assessment.
+
 5. **OASAM-LEAK**: Information Leak: Confidential information leak assessment.
+
 6. **OASAM-DV**: Data Validation:User entry management assessment.
+
 7. **OASAM-IS**: Intent Spoofing: Intent reception management assessment.
+
 8. **OASAM-UIR**: Unauthorized Intent Receipt:Intent resolution assessment.
-9. **OASAM-BL Business Logic: Application business logic assessment.
+
+9. **OASAM-BL Business Logic**: Application business logic assessment.
