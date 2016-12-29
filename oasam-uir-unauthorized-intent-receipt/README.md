@@ -11,4 +11,4 @@ The following controls are applied in this category:
 
 **OASAM-UIR-003: Service Hijacking.** Intent interception on Service components.
 
-**OASAM-UIR-004:Weakness Special Intents.** Pending Intent interception.
+**OASAM-UIR-004: Weakness Special Intents.** Pending Intent interception.
