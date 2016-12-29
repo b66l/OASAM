@@ -12,7 +12,7 @@ The OASAM Project purpose is to elaborate a complete and consistent taxonomy of 
 
 Security controls are structured in the following sections:
 
-1. **[OASAM-INFO](https://github.com/b66l/OASAM/tree/master/oasam-leak-information-leak)**:  Information Gathering:  Information gathering and attack surface definition.
+1. **[OASAM-INFO](https://github.com/b66l/OASAM/tree/master/oasam-info-information-gathering)**:  Information Gathering:  Information gathering and attack surface definition.
 
 2. **[OASAM-CONF](https://github.com/b66l/OASAM/tree/master/oasam-conf-configuration-and-deploy-management)**: Configuration and Deploy Management: Configuration and deploy assessment.
 
