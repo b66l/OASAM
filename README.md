@@ -10,26 +10,25 @@ On the other hand, despite there are particular works in this respect, a complet
 The OASAM Project purpose is to elaborate a complete and consistent taxonomy of vulnerabilities on Android applications, supporting not only application developers, but also people in charge of looking for vulnerabilities in them.
 
 
-
 Security controls are structured in the following sections:
 
-1. **OASAM-INFO**:  Information Gathering:  Information gathering and attack surface definition.
+1. **[OASAM-INFO](https://github.com/b66l/OASAM/tree/master/oasam-leak-information-leak)**:  Information Gathering:  Information gathering and attack surface definition.
 
-2. **OASAM-CONF**: Configuration and Deploy Management: Configuration and deploy assessment.
+2. **[OASAM-CONF](https://github.com/b66l/OASAM/tree/master/oasam-conf-configuration-and-deploy-management)**: Configuration and Deploy Management: Configuration and deploy assessment.
 
-3. **OASAM-AUTH**: Authentication: Authentication assessment.
+3. **[OASAM-AUTH](https://github.com/b66l/OASAM/tree/master/oasam-auth-authentication)**: Authentication: Authentication assessment.
 
-4. **OASAM-CRYPT**:  Cryptography: Cryptography use assessment.
+4. **[OASAM-CRYPT](https://github.com/b66l/OASAM/tree/master/oasam-crypt-cryptography)**:  Cryptography: Cryptography use assessment.
 
-5. **OASAM-LEAK**: Information Leak: Confidential information leak assessment.
+5. **[OASAM-LEAK](https://github.com/b66l/OASAM/tree/master/oasam-leak-information-leak)**: Information Leak: Confidential information leak assessment.
 
-6. **OASAM-DV**: Data Validation:User entry management assessment.
+6. **[OASAM-DV](https://github.com/b66l/OASAM/tree/master/oasam-dv-data-validation)**: Data Validation:User entry management assessment.
 
-7. **OASAM-IS**: Intent Spoofing: Intent reception management assessment.
+7. **[OASAM-IS](https://github.com/b66l/OASAM/tree/master/oasam-is-intent-spoofing)**: Intent Spoofing: Intent reception management assessment.
 
-8. **OASAM-UIR**: Unauthorized Intent Receipt:Intent resolution assessment.
+8. **[OASAM-UIR](https://github.com/b66l/OASAM/tree/master/oasam-uir-unauthorized-intent-receipt)**: Unauthorized Intent Receipt:Intent resolution assessment.
 
-9. **OASAM-BL Business Logic**: Application business logic assessment.
+9. **[OASAM-BL Business Logic](https://github.com/b66l/OASAM/tree/master/oasam-bl-business-logic)**: Application business logic assessment.
 
 
 
