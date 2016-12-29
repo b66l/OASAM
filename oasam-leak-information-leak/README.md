@@ -6,10 +6,10 @@ The following controls are applied in this section:
 
 **OASAM-LEAK-001: Improper Error Handling.** Application’s information leak through uncontrolled errors. **PENDING**
 
-**OASAM-LEAK-002:Information Leak to log files.** Information Leak to log files.
+**[OASAM-LEAK-002:Information Leak to log files.](https://github.com/b66l/OASAM/blob/master/oasam-leak-information-leak/oasam-leak-002-information-leak-to-log-files.md)** Information Leak to log files.
 
-**OASAM-LEAK-003:Information Leak to SDCard.** Information Leak to SDCard.
+**[OASAM-LEAK-003:Information Leak to SDCard.](https://github.com/b66l/OASAM/blob/master/oasam-leak-information-leak/oasam-leak-003-information-leak-to-sdcard.md)** Information Leak to SDCard.
 
-**OASAM-LEAK-004: Information Leak to Network.** Information Leak to Network
+**[OASAM-LEAK-004: Information Leak to Network.](https://github.com/b66l/OASAM/blob/master/oasam-leak-information-leak/oasam-leak-004-information-leak-to-network.md)** Information Leak to Network
 
-**OASAM-LEAK-005: Information Leak to IPC.** Information Leak to Android’s IPC
+**[OASAM-LEAK-005: Information Leak to IPC.](https://github.com/b66l/OASAM/blob/master/oasam-leak-information-leak/oasam-leak-005-information-leak-to-ipc.md)** Information Leak to Android’s IPC
