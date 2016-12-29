@@ -7,4 +7,14 @@ Portable devices are currently holding the market and consumerization is leading
 
 On the other hand, despite there are particular works in this respect, a complete and consistent taxonomy of vulnerabilities on specific Android applications that allows cataloguing such vulnerabilitiesdoes not exist.
 
-The OASAM Project purpose is to elaborate a complete and consistent taxonomy of vulnerabilities on Android applications, supporting not only application developers, but also people in charge of looking for vulnerabilities in them
+The OASAM Project purpose is to elaborate a complete and consistent taxonomy of vulnerabilities on Android applications, supporting not only application developers, but also people in charge of looking for vulnerabilities in them.
+
+Security controls are structured in the following sections:
+1. **OASAM-INFO**:  Information Gathering:  Information gathering and attack surface definition.2. OASAM-CONF: Configuration and Deploy Management: Configuration and deploy assessment.
+3. **OASAM-AUTH**: Authentication: Authentication assessment.
+4. **OASAM-CRYPT**:  Cryptography: Cryptography use assessment.
+5. **OASAM-LEAK**: Information Leak: Confidential information leak assessment.
+6. **OASAM-DV**: Data Validation:User entry management assessment.
+7. **OASAM-IS**: Intent Spoofing: Intent reception management assessment.
+8. **OASAM-UIR**: Unauthorized Intent Receipt:Intent resolution assessment.
+9. **OASAM-BL Business Logic: Application business logic assessment.
