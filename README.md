@@ -9,13 +9,6 @@ On the other hand, despite there are particular works in this respect, a complet
 
 The OASAM Project purpose is to elaborate a complete and consistent taxonomy of vulnerabilities on Android applications, supporting not only application developers, but also people in charge of looking for vulnerabilities in them.
 
-**Author**:
-Daniel Medianero
-
-**In collaboration with**:
-Victor Villagrá (Review)
-
-Jacobo Torrado (Translation)
 
 
 Security controls are structured in the following sections:
@@ -37,3 +30,14 @@ Security controls are structured in the following sections:
 8. **OASAM-UIR**: Unauthorized Intent Receipt:Intent resolution assessment.
 
 9. **OASAM-BL Business Logic**: Application business logic assessment.
+
+
+
+**Author**:
+Daniel Medianero
+
+**In collaboration with**:
+Victor Villagrá (Review)
+
+Jacobo Torrado (Translation)
+
