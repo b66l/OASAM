@@ -33,7 +33,7 @@ Security controls are structured in the following sections:
 
 
 **Author**:
-Daniel Medianero
+[Daniel Medianero](https://twitter.com/dmedianero)
 
 **In collaboration with**:
 Victor Villagrá (Review)
