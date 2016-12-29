@@ -7,12 +7,12 @@ The application information gathering is one of the most important parts in Andr
 The following controls are applied in this section:
 
 
-**OASAM-INFO-001**: General Information. List of general application data
+**[OASAM-INFO-001](https://github.com/b66l/OASAM/blob/master/oasam-info-information-gathering/oasam-info-001-general-information.md)**: General Information. List of general application data
 
-**OASAM-INFO-002**: Components list. List of application components.
+**[OASAM-INFO-002](https://github.com/b66l/OASAM/blob/master/oasam-info-information-gathering/oasam-info-002-components-list.md)**: Components list. List of application components.
 
-**OASAM-INFO-003**: Component permissions. List of application component permissions.
+**[OASAM-INFO-003](https://github.com/b66l/OASAM/blob/master/oasam-info-information-gathering/oasam-info-003-component-permissions.md)**: Component permissions. List of application component permissions.
 
-**OASAM-INFO-004**: Components exported.
+**[OASAM-INFO-004](https://github.com/b66l/OASAM/blob/master/oasam-info-information-gathering/oasam-info-004-components-exported.md)**: Components exported.
 
-**OASAM-INFO-005**: Component Launching Intents. List of component launching intents.
+**[OASAM-INFO-005](https://github.com/b66l/OASAM/blob/master/oasam-info-information-gathering/oasam-info-005-component-launch-intents.md)**: Component Launching Intents. List of component launching intents.
