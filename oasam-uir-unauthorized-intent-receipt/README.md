@@ -5,10 +5,10 @@ This category covers all the vulnerabilities related with the resolution of impl
 
 The following controls are applied in this category:
 
-**OASAM-UIR-001: Broadcast Theft.** Intent interception on Broadcast components.
+**[OASAM-UIR-001: Broadcast Theft.](https://github.com/b66l/OASAM/blob/master/oasam-uir-unauthorized-intent-receipt/oasam-uir-001-broadcast-theft.md)** Intent interception on Broadcast components.
 
-**OASAM-UIR-002: Activity Hijacking.** Intent interception on Activity components.
+**[OASAM-UIR-002: Activity Hijacking.](https://github.com/b66l/OASAM/blob/master/oasam-uir-unauthorized-intent-receipt/oasam-uir-002-activity-hijacking.md)** Intent interception on Activity components.
 
-**OASAM-UIR-003: Service Hijacking.** Intent interception on Service components.
+**[OASAM-UIR-003: Service Hijacking.](https://github.com/b66l/OASAM/blob/master/oasam-uir-unauthorized-intent-receipt/oasam-uir-003-service-hijacking.md)** Intent interception on Service components.
 
-**OASAM-UIR-004: Weakness Special Intents.** Pending Intent interception.
+**[OASAM-UIR-004: Weakness Special Intents.](https://github.com/b66l/OASAM/blob/master/oasam-uir-unauthorized-intent-receipt/oasam-uir-004-weakness-special-intents.md)** Pending Intent interception.
