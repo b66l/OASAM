@@ -10,7 +10,10 @@ On the other hand, despite there are particular works in this respect, a complet
 The OASAM Project purpose is to elaborate a complete and consistent taxonomy of vulnerabilities on Android applications, supporting not only application developers, but also people in charge of looking for vulnerabilities in them.
 
 Security controls are structured in the following sections:
-1. **OASAM-INFO**:  Information Gathering:  Information gathering and attack surface definition.2. OASAM-CONF: Configuration and Deploy Management: Configuration and deploy assessment.
+
+1. **OASAM-INFO**:  Information Gathering:  Information gathering and attack surface definition.
+
+2. **OASAM-CONF**: Configuration and Deploy Management: Configuration and deploy assessment.
 
 3. **OASAM-AUTH**: Authentication: Authentication assessment.
 
