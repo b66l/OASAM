@@ -1,17 +1,17 @@
 
-#OASAM-CONF-006: Improper file permissions
+# OASAM-CONF-006: Improper file permissions
 
-##Description:
+## Description:
 Generating files with the “MODE_WORLD_READABLE” permission allows a global file reading, so it is not recommended except if it is a file that does not reveal confidential information. Likewise, it is not recommended to set files with “MODE_WORLD_WRITABLE” permission. An example of dangerous file statementcan be seenbelow:
 
 
 >file = openFileOutput("File_Name", Context.MODE_WORLD_READABLE);
 
-##Risks:
+## Risks:
 Setting global reading permissions reveals the information contained in a file. If the writing permission is enabled, any application could modify the content of such file, extending the attack surface.
 
 
-##Recommendations:
+## Recommendations:
 It is recommended to generate files with global reading or writing permissions only when it is strictly necessary. In general terms, these guidelines are recommended to follow in order to store data:
 
 
@@ -25,7 +25,7 @@ It is recommended to generate files with global reading or writing permissions o
 
 5. Network Connection. For storing data on services through the net. In such cases, it is recommended to maximize precautions and use encryption techniques.
 
-##References:
+## References:
 1. Flaw 20 of “42+ Best practices in secure mobile development for iOS and Android”
 
 2. Page 22 of “iSEC Securing Android Apps”
